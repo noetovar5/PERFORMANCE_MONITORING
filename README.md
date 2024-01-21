@@ -1,11 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.PERFORMANCE_MONITORING"/>
-### PERFORMANCE_MONITORING
+##PERFORMANCE_MONITORING
 PERFORMANCE MONITORING for Linux Administrators
 
-# Display and manage the top processes
+Display and manage the top processes
 top
 
-# Interactive process viewer (top alternative)
+--Interactive process viewer (top alternative)
 htop
 
 # Display processor related statistics
